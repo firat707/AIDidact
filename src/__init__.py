@@ -1,0 +1,1 @@
+"""AIDidact source package."""
